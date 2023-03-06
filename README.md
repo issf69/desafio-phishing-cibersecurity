@@ -51,4 +51,5 @@ Midjourney
 Esse projeto está sob a licença MIT.
 
 
-Feito com ♥  Projeto de estudo da aluna Irene Silva França,  através estudo na Plataforma Dio :wave: [Escola Web](https://dio.me)
+Feito com ♥  Projeto de estudo da aluna Irene Silva França.
+## 🪪 Créditos: Estudo na Plataforma Dio :wave: [Escola Web](https://dio.me)
