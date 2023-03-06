@@ -42,15 +42,13 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 Phishing para captura de senhas do Facebook
 
 
-## 📖Layout
+## 🔖Layout
 
 Midjourney
 
+## :memo: Licença
 
-
-## 📚 Licença
 Esse projeto está sob a licença MIT.
 
----
 
 Feito com ♥  Projeto de estudo da aluna Irene Silva França,  através estudo na Plataforma Dio :wave: [Escola Web](https://dio.me)
